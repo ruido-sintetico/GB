@@ -1,0 +1,9 @@
+В html можно символы вставлять в виде кода, таблица символов unicode:
+https://unicode-table.com/ru/
+http://foxtools.ru/Unicode
+
+Как работает шифрование (и ssl в частности): 
+https://youtu.be/YtFM-smD9fQ
+
+Сайт, где можно сделать прототип низкой детализации: 
+https://wireframe.cc/

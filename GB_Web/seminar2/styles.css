@@ -1,0 +1,19 @@
+body{
+    background: #d6b5d7;
+}
+.direct {
+    font: 1.2em Arial bold italic
+}
+
+.actions{
+    text-align: right;
+}
+.box {
+    border: 5px solid darkblue;
+  }
+
+.photo {
+    width: 300px;
+    height: 300px
+
+}

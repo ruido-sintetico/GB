@@ -78,5 +78,5 @@ create table if not exists null_or_0
 
 insert into null_or_0 values
     (1, null ),
-    (2, 0);
+    (2, "0");
 select * from null_or_0
